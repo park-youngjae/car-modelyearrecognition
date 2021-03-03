@@ -1,0 +1,4 @@
+classes = 140
+train  = /workspace/raid/train.txt
+valid  = /workspace/raid/test.txt
+names = /workspace/raid/obj.names
