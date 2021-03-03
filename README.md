@@ -41,7 +41,7 @@ sudo docker attach car-cctv
 
 * test.py 실행
 ```
-python test.py
+test.sh
 ```
 
 ###### Test.py 파라미터 세부정보
